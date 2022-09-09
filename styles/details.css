@@ -5,13 +5,20 @@
 }
 
 .detail--column {
-    flex-basis: 24%;
-    margin: 0 2rem;
+    flex-basis: 22%;
+    margin: 0 .5rem;
     padding: 1rem;
     border: 1px dotted goldenrod;
 }
 
 .orders {
-    font-size: 20rem;
+    font-size: 1.2rem;
+    display: block;
+    margin-left: 7rem;
+}
+#container {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
